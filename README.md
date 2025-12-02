@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **indulkarshubham13@gmail.com**
 
-- 📄 Know about my experiences [Resume — [View PDF](https://drive.google.com/file/d/1nF8aiWD06Qs2MXYQY-wH7NO0xvZWcohK/view?usp=sharing)](Resume — [View PDF](https://drive.google.com/file/d/1nF8aiWD06Qs2MXYQY-wH7NO0xvZWcohK/view?usp=sharing))
+- 📄 Know about my experiences [Resume — [View PDF](https://drive.google.com/file/d/1nF8aiWD06Qs2MXYQY-wH7NO0xvZWcohK/view?usp=sharing)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
