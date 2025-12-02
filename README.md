@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm I’m a passionate AI + Data Science + Full Stack developer who loves building real-world systems. I design and deploy AI agents, fine-tune LLMs, work on predictive modeling, and build end-to-end applications using modern web technologies.</h1>
+<h1 align="center">Hi 👋, I'm I’m a passionate AI + Data Science + Full Stack developer who loves building real-world systems.</h1>
 <h3 align="center">A passionate full-stack & AI engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thesilentprogramer&label=Profile%20views&color=0e75b6&style=flat" alt="thesilentprogramer" /> </p>
